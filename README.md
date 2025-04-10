@@ -6,7 +6,7 @@ The player guessing game is randomly generated between a number 1-100.
 
 The computer guessing game picks a number 1-100
 
-Menu 
+## Menu 
 Creates and maintains Menu
 	while true
 		print quit
@@ -34,8 +34,7 @@ Creates and maintains Menu
         
         
         
-        
-    Human(Scanner Input)
+## Human(Scanner Input)
     
      public void Human()
 	generate a random integer between 1 and 100
