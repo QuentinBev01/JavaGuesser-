@@ -30,8 +30,14 @@ Creates and maintains Menu
 		else 
 			print invalid input
 
-        Human(Scanner Input)
-        public void Human()
+        
+        
+        
+        
+        
+    Human(Scanner Input)
+    
+     public void Human()
 	generate a random integer between 1 and 100
 	print Try and guess the number between 1 and 100
 	
